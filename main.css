@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+}
+
+.button{
+    background-color: aquamarine;
+    border-radius: 5px;
+    text-decoration: none;
+    color: black;
+}
+
+.button:hover{
+    background-color:#68dab4;
+}
+
+nav a{
+    background-color: #4d4aff;
+    text-decoration: none;
+    color: #000000;
+}
+
+nav a:hover{
+    background-color: #3432ad;
+}
